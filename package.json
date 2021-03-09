@@ -1,0 +1,19 @@
+{
+  "name": "prepros-project",
+  "version": "1.0.0",
+  "description": "This is a dummy package.json file created by Prepros to manage packages with NPM. You can edit this file to add your own information.",
+  "dependencies": {
+    "webpack": "5.24.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/runtime": "^7.13.9",
+    "Babel": "0.0.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "5.3.0",
+    "npm": "^7.6.1",
+    "optimize-css-assets-webpack-plugin": "5.0.4",
+    "style-loader": "2.0.0"
+  }
+}
